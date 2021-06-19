@@ -5,7 +5,7 @@ import random
 
 __name__ = 'ccard'
 __title__ = 'ccard'
-__version__ = '0.1.5'
+__version__ = '0.1.9'
 __author__ = 'David Samir'
 __email__ = 'dsamir@davidsamir.com'
 __link__ = 'https://github.com/davidsamir/credit-card-generator/'

@@ -19,4 +19,4 @@ A checklist of things to remember when making a feature:
 - Add yourself to the `AUTHORS`_ file
 
 .. _AUTHORS: AUTHORS.rst
-.. _README: README.rst
+.. _README: README.md
