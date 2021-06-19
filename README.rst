@@ -7,7 +7,9 @@ Instead of using a real credit card
 this tool will help you generate a vaild credit card numbers
 Giving you the option to generate the following type of credit card
 
-`` [Visa, Discover, Master Card, American Express] ``
+``
+[Visa, Discover, Master Card, American Express]
+``
 
 
 Installation
