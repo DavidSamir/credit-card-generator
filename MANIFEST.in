@@ -1,2 +1,3 @@
 include *.rst
-include names/dist.all.last names/dist.female.first names/dist.male.first
+include *.md
+include ccard/visa ccard/discover ccard/mastercard ccard/americanexpress 
