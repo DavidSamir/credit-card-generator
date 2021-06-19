@@ -1,11 +1,12 @@
-ccard
-=====
+## ccard
 
-Fake credit-card generator
-is a Python 3 Package for TESTING PURPOSES AND DATA VERIFICATION ONLY!
-Instead of using a real credit card
-this tool will help you generate a vaild credit card numbers
-Giving you the option to generate the following type of credit card
+
+Fake credit-card generator  
+is a Python 3 Package  **FOR TESTING PURPOSES AND DATA VERIFICATION ONLY!**  
+
+Instead of using a real credit card  
+this tool will help you generate a vaild credit card numbers  
+Giving you the option to generate the following type of credit card  
 
 - Visa
 - Discover
@@ -13,22 +14,21 @@ Giving you the option to generate the following type of credit card
 - American Express
 
 
-Installation
-------------
+## Installation
+
 
 The script is `available on PyPI`_.  To install with pip::
-
+```
     pip install ccard
+```
 
-
-Usage
------
+## Usage
 
 credit-card generator can be used as a command line utility or imported as a Python package.
 
 
 Command Line Usage
-~~~~~~~~~~~~~~~~~~
+```
 To use the script from the command line:
 the defualt value is Visa
 .. code-block:: bash
@@ -37,7 +37,7 @@ the defualt value is Visa
     4916232538105515
 
 Python Package Usage
-~~~~~~~~~~~~~~~~~~~~
+```
 Here are examples of all current features:
 
 .. code-block:: pycon
@@ -52,17 +52,13 @@ Here are examples of all current features:
     >>> ccard.americanexpress()
     374300139079794
 
-License
--------
+## License
 
 This project is released under an `MIT License`_.
 
-.. _mit license: http://th.mit-license.org/2013
-.. _available on PyPI: http://pypi.python.org/pypi/ccard/
+[PyPI](http://pypi.python.org/pypi/ccard/)
 
 
+## Contact
 
-Contact
--------
-
-David Samir - [@Davidsamir0](https://twitter.com/Davidsamir0) - dsamir@davidsamir.com
+David Samir - [@Davidsamir0](https://twitter.com/Davidsamir0) - dsamir@davidsamir.com - [davidsamir.com](https://davidsamir.com?ref=git)
