@@ -7,7 +7,10 @@ Instead of using a real credit card
 this tool will help you generate a vaild credit card numbers
 Giving you the option to generate the following type of credit card
 
-`` [Visa, Discover, Master Card, American Express] ``
+- Visa
+- Discover
+- Master Card
+- American Express
 
 
 Installation
@@ -30,7 +33,7 @@ To use the script from the command line:
 the defualt value is Visa
 .. code-block:: bash
 
-    $ ccard
+    $ ccard  
     4916232538105515
 
 Python Package Usage
@@ -56,3 +59,10 @@ This project is released under an `MIT License`_.
 
 .. _mit license: http://th.mit-license.org/2013
 .. _available on PyPI: http://pypi.python.org/pypi/ccard/
+
+
+
+Contact
+-------
+
+David Samir - [@Davidsamir0](https://twitter.com/Davidsamir0) - dsamir@davidsamir.com
