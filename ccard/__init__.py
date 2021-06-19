@@ -30,7 +30,7 @@ def get_number(filename):
     with open(filename) as name_file:
         for index,line in enumerate(name_file):
             if index > selected:
-                return line
+                return int(line)
     return ''  # Return empty string if file is empty
 
 def visa():
