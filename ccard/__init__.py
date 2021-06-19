@@ -3,9 +3,14 @@ from os.path import abspath, join, dirname
 import random
 
 
+__name__ = 'ccard'
 __title__ = 'ccard'
-__version__ = '0.1.0.post1'
+__version__ = '0.1.5'
 __author__ = 'David Samir'
+__email__ = 'dsamir@davidsamir.com'
+__link__ = 'https://github.com/davidsamir/credit-card-generator/'
+__info__ = 'credit card generator'
+__email__ = 'dsamir@davidsamir.com'
 __license__ = 'MIT'
 
 

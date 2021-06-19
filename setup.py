@@ -10,11 +10,13 @@ with open('CONTRIBUTING.rst') as contributing_file:
 
 
 setup(
+    name=ccard.__name__,
     ccard=ccard.__title__,
     version=ccard.__version__,
     author=ccard.__author__,
-    url="https://github.com/credit-card-generator/ccard",
-    description="credit card generator",
+    author_email=ccard.__email__,
+    url=ccard.__link__,
+    description=ccard.__info__,
     long_description='\n\n'.join((
         readme,
         contributing,
